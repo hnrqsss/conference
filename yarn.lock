@@ -4879,6 +4879,11 @@ react-is@^16.8.1, react-is@^16.8.3, react-is@^16.8.4:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.8.6.tgz#5bbc1e2d29141c9fbdfed456343fe2bc430a6a16"
   integrity sha512-aUk3bHfZ2bRSVFFbbeVS4i+lNPZr3/WM5jT2J5omUVV1zzcs1nAaf3l51ctA5FFvCRbhrH0bdAsRRQddFJZPtA==
 
+react-native-jitsi-meet@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/react-native-jitsi-meet/-/react-native-jitsi-meet-1.2.0.tgz#6170c0752f84918aa38ff102962a758f90c5c3c4"
+  integrity sha512-Q2ug4siSr6Ju6219/WJjKvttnH+h6zRSZkICUFX6NbGMz1lACYsJ74OUDI/7GX8x3XRLlwWnL3slbIqSpxjoPA==
+
 react-native@0.59.8:
   version "0.59.8"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.59.8.tgz#ade4141c777c60f5ec4889d9811d0f80a9d56547"
